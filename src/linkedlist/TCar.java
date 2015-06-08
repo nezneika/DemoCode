@@ -2,9 +2,6 @@ package linkedlist;
 
 /**
  * Aim to create a simple linked list and list all the items, while only know the first item
- * 
- * @author hami
- * 
  */
 public class TCar {
 
